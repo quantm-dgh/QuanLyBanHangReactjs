@@ -1,11 +1,17 @@
+@import '~antd/dist/antd.css';
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
   height: 40vmin;
 }
-
+.mr-20{
+  margin-right: 20;
+}
+.al-c{
+  text-align:center;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
